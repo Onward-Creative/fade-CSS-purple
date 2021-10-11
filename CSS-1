@@ -1,0 +1,4 @@
+background: -moz-linear-gradient(213deg,  rgba(171, 133, 255) 0%, rgba(49, 14, 105) 47%, rgba(41,7,95) 96%); /* FF3.6-15 */
+background: -webkit-linear-gradient(213deg,  rgba(171, 133, 255) 0%,rgba(49, 14, 105) 47%,rgba(41,7,95) 96%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(213deg,  rgba(171, 133, 255) 0%,rgba(49, 14, 105) 47%,rgba(41,7,95) 96%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#29075f', endColorstr='#f5ff85ff',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
